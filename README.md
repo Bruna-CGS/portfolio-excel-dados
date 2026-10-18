@@ -1,2 +1,2 @@
 # portfolio-excel-dados
-Portfólio com projetos para analise de dados
+Portfólio de projetos em Excel e análise de dados, com planilhas, dashboards e soluções práticas.
